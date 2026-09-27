@@ -1,0 +1,12 @@
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+node_modules/
+
+# Keep the public project documentation, but not local learning and history notes.
+/docs/*
+!/docs/architecture.md
+!/docs/rebuild-planning/
+!/docs/rebuild-planning/**

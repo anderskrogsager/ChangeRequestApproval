@@ -1,0 +1,11 @@
+{
+  "name": "change-request-approval",
+  "private": true,
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "watch": "tsc --project tsconfig.json --watch"
+  },
+  "devDependencies": {
+    "typescript": "7.0.2"
+  }
+}
